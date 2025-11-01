@@ -49,10 +49,10 @@ const styles = StyleSheet.create({
     fontSize: 17,
     marginTop: 9,
     textAlign: 'right',
-    color: '#34967C'
+    color: 'black'
   },
   button: {
-    backgroundColor: '#2B876E',
+    backgroundColor: 'red',
     height: 53,
     borderRadius: 10,
     marginTop: 25,
